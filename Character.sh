@@ -7,3 +7,4 @@ case $c in
  ?) echo "special char";;
  *) echo "more than one char";;
 esac
+read d 
